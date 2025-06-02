@@ -13,10 +13,10 @@ Sou um(a) [Dev iniciante], apaixonado(a) por [Sistemas operacionais], [JavaScrip
 <h3>💡 Tenho interesse em Segurança cibernética, IOT e Perfumaria como "Hobby".
 <h3>🌱 Atualmente estou aprendendo mais sobre JavaScript .
 <h3>💬 Pergunte-me sobre [Segurança cibernética].
-<h3>😄 Pronomes: [Ele/Dele, Ela/Dela, Elu/Delu, etc.]
-<h3>⚡ Curiosidade: [UM FATO CURIOSO SOBRE VOCÊ OU UM HOBBY].
-<h3>📫 Como me encontrar:</h3>
-<a href="thales.t.silva6@aluno.senai.br" target="blank"><img src = "https://images.icon-icons.com/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" width = 40px height = 40px>
+<h3>😄 Pronomes: [Ele/Dele]
+<h3>⚡ Curiosidade: [Quero ser perfumista no futuro].
+<h3>📫 Como me encontrar:thales.t.silva6@aluno.senai.br
+
 
 ---
 
