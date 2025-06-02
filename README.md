@@ -16,7 +16,7 @@ Sou um(a) [Dev iniciante], apaixonado(a) por [Sistemas operacionais], [JavaScrip
 <h3>😄 Pronomes: [Ele/Dele, Ela/Dela, Elu/Delu, etc.]
 <h3>⚡ Curiosidade: [UM FATO CURIOSO SOBRE VOCÊ OU UM HOBBY].
 <h3>📫 Como me encontrar:</h3>
-<a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcSKkHWNfjwHkshlwHNpklhlSqsJGksMzFsGhVhlDpQpLqCfZdXGjgqFZtMxvkzQHwGzMnsfj" target="blank"><img src = "https://images.icon-icons.com/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" width = 40px height = 40px>
+<a href="thales.t.silva6@aluno.senai.br" target="blank"><img src = "https://images.icon-icons.com/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" width = 40px height = 40px>
 
 ---
 
