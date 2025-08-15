@@ -13,22 +13,6 @@
 - ⚡ Curiosidade: **Quero ser perfumista no futuro**  
 - 📫 Contato: **thales.t.silva6@aluno.senai.br**
 
----
-
-## 🛠️ Minhas Tecnologias Favoritas
-
-<p align="center">
-  <!-- JavaScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <!-- HTML -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-  <!-- CSS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-  <!-- GitHub -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
-  <!-- Git Bash -->
-  <img src="https://img.icons8.com/color/48/000000/git.png" width="40" />
-</p>
 
 ---
 ## 🛠️ Tecnologias que mais utilizo
