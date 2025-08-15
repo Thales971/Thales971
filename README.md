@@ -59,10 +59,7 @@ Sou um Dev iniciante, apaixonado por Sistemas Operacionais, JavaScript e transfo
   <img src="https://github-readme-stats.vercel.app/api?username=Thales&show_icons=true&theme=dark&title_color=FFD700&icon_color=FF0000&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats"/>
 </p>
 
-<!-- GIF Undertale -->
-<p align="center">
-  <img src="https://tenor.com/view/deltarune-sans-undertale-defaultdance-dance-gif-13037183" alt="Sans dançando em Deltarune" width="300" />
-</p>
+
 
 ---
 
