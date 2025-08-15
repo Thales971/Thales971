@@ -1,9 +1,6 @@
-<!-- Nome com efeito de digitação -->
-<p align="center">
-  <a href="https://github.com/Thales">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Ol%C3%A1,+eu+sou+o+Thales!;Desenvolvedor+em+Evolução;Amante+de+Tecnologia+💻" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">
+  💻 🚀 <span style="color:#00C2FF;">Thales</span> 🚀 💻
+</h1>
 
 ---
 
