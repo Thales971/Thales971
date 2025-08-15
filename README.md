@@ -61,7 +61,7 @@ Sou um Dev iniciante, apaixonado por Sistemas Operacionais, JavaScript e transfo
 
 <!-- GIF Undertale -->
 <p align="center">
-  <img src="https://media.giphy.com/media/9PtfS5tTC8ejlYfCLU/giphy.gif" alt="Undertale Sans" width="300"/>
+  <img src="https://tenor.com/view/deltarune-sans-undertale-defaultdance-dance-gif-13037183" alt="Sans dançando em Deltarune" width="300" />
 </p>
 
 ---
