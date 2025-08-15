@@ -1,11 +1,8 @@
 <!-- Nome com efeito de digitação -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+o+Thales!;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
-</h1>
-
-<!-- Frase temática -->
 <p align="center">
-  <em>"A humanidade caiu no subsolo... e decidiu aprender a programar."</em>
+  <a href="https://github.com/Thales">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Ol%C3%A1,+eu+sou+o+Thales!;Desenvolvedor+em+Evolução;Amante+de+Tecnologia+💻" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -37,6 +34,19 @@
 </p>
 
 ---
+## 🛠️ Tecnologias que mais utilizo
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thales&layout=compact&theme=radical&title_color=00C2FF&text_color=FFFFFF&bg_color=0D1117" />
+</p>
 
 ## 📊 Estatísticas & Contador
 
@@ -53,28 +63,9 @@
 
 ---
 
-## 🎮 Modo Batalha
 
-<p align="center">
-  <img src="LINK-DO-GIF-SANS-DELTARUNE" alt="Sans dançando em Deltarune" width="300" />
-</p>
 
-<p align="center">
-  ❤️ ❤️ ❤️ ❤️ ❤️  
-  **LV 7**  |  **HP 20/20**
-</p>
 
----
-
-## ✨ Animações Extras
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="150" />
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" />
-  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="150" />
-</p>
-
----
 
 <p align="center">
   <em>"Você sente que está prestes a ter um encontro aleatório..."</em> 🕹️
