@@ -1,10 +1,10 @@
 <h1 align="center">
-  💻 🚀 <span style="color:#00C2FF;">Thales</span> 🚀 💻
+ Olá, eu sou o Thales <img src = "https://img1.picmix.com/output/stamp/normal/3/9/6/7/2387693_e8061.gif" width = 50
 </h1>
 
 ---
 
-## 🚀 Sobre Mim
+## ☠️ Sobre Mim:  <img src="https://media.tenor.com/1dKXAaF4iuUAAAAM/pixel-trombone.gif" width="100"/>
 
 - 🎓 Cursando Técnico de Desenvolvimento de Sistemas no SENAI de Valinhos
 - 💡 Interesse em **Segurança Cibernética**, **IoT** e Perfumaria como hobby
@@ -38,7 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thales&layout=compact&theme=radical&title_color=00C2FF&text_color=FFFFFF&bg_color=0D1117" alt="Linguagens mais utilizadas" />
 </div>
 
-
+<img src="https://media.tenor.com/1dKXAaF4iuUAAAAM/pixel-trombone.gif" width="40"/>
 
 
 
