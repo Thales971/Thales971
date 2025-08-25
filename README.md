@@ -40,9 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Thales&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thales&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
 
 
 <p align="center">
