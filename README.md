@@ -29,20 +29,64 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thales&layout=compact&theme=radical&title_color=00C2FF&text_color=FFFFFF&bg_color=0D1117" />
 </p>
 
-## 📊 Estatísticas & Contador
-
+<!-- CONTADORES GERAIS -->
 <p align="center">
-  <!-- Contador de visitas -->
-  <img src="https://komarev.com/ghpvc/?username=Thales&label=Visitantes&color=FFD700&style=flat-square" />
-  <!-- Contador de commits -->
-  <img src="https://img.shields.io/github/commit-activity/m/Thales/Thales?color=FF0000&label=Commits&style=flat-square" />
+  <!-- Visitas ao perfil -->
+  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=Visualizações&color=0e75b6&style=flat" alt="Profile views" />
+  <!-- Seguidores -->
+  <img src="https://img.shields.io/github/followers/SEUUSUARIO?label=Seguidores&style=flat" alt="Followers" />
+  <!-- Estrelas recebidas (repositório exemplo) -->
+  <a href="https://github.com/SEUUSUARIO/NOMEDOREPO">
+    <img src="https://img.shields.io/github/stars/SEUUSUARIO/NOMEDOREPO?label=Stars%20no%20repo&style=flat" alt="Repo stars" />
+  </a>
+  <!-- Commits este ano (card abaixo mostra detalhado) -->
 </p>
 
+<!-- ESTATÍSTICAS DO PERFIL -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thales&show_icons=true&theme=dark&title_color=FFD700&icon_color=FF0000&text_color=FFFFFF&bg_color=000000" />
+  <!-- Card de Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"
+    height="160"
+    alt="GitHub Stats"
+  />
+  <!-- Linguagens Mais Usadas -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=8"
+    height="160"
+    alt="Top Languages"
+  />
 </p>
 
----
+<!-- STREAK (dias seguidos contribuindo) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEUUSUARIO" height="170" alt="GitHub Streak" />
+</p>
+
+<!-- TROFÉUS -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=flat&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
+
+<!-- GRÁFICO DE ATIVIDADE (contribuições) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&hide_border=true" alt="Activity Graph" />
+</p>
+
+<!-- CONTADOR DE VISITAS POR REPOSITÓRIO (opcional) -->
+<details>
+  <summary>Contador por repositório (clique para ver)</summary>
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SEUUSUARIO/NOMEDOREPO&title=Visitas%20no%20reposit%C3%B3rio)](https://hits.seeyoufarm.com)
+
+</details>
+
+<!-- WAKATIME (opcional: troque SEUUSUARIO pelo seu id do Wakatime) -->
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEUUSUARIO" height="300" alt="Wakatime" />
+</p>
+-->
 
 
 
