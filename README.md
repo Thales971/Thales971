@@ -37,12 +37,14 @@
 ## ✨ Minhas Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thales&style=for-the-badge" alt="Contador de visualizações" /> 
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Thales&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thales&layout=compact&theme=radical&title_color=00C2FF&text_color=FFFFFF&bg_color=0D1117" alt="Linguagens mais utilizadas" width = "353"/>
-  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JhonatanFavoreto&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhonatanFavoreto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph" />
+</div>
 
-<img src="https://www.icegif.com/wp-content/uploads/sans-icegif-8.gif" width="35"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=JhonatanFavoreto&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</div>
+...existing code...
 
 ---
 ## 📤 Se conecte comigo!
