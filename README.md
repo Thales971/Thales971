@@ -50,7 +50,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=JhonatanFavoreto&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
-...existing code...
 
 ---
 
