@@ -50,25 +50,13 @@
 ## ✨ Minhas Estatísticas do GitHub
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Thales971&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Thales971&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Thales971&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Thales971&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Thales971&layout=compact&theme=default&hide_border=true&langs_count=6" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thales971&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-  </picture>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thales971&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thales971&layout=compact&langs_count=7&theme=nightowl" />
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Thales971&theme=github-dark-blue&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Thales971&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=Thales971&theme=github-dark-blue&hide_border=true" />
-  </picture>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thales971&theme=nightowl" alt="GitHub Streak" />
+</p>
 
 ---
 
