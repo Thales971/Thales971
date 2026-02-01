@@ -63,7 +63,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Quando temos vontade, nada está perdido."
+> "Eu tenho um sonho: um dia cada pessoa controlará seu próprio destino."
 <!-- QUOTE-END -->
 
 <details>
@@ -89,7 +89,7 @@
   - "Às vezes, o herói que a cidade precisa não é o que ela merece."
   - "Basta um dia ruim para reduzir o homem mais são à loucura."
   - "Se você é bom em alguma coisa, nunca faça de graça."
-  <!-- QUOTES-LIST-END -->
+<!-- QUOTES-LIST-END -->
 </details>
 
 ---
