@@ -50,13 +50,13 @@
 ## ✨ Minhas Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thales971&theme=nightowl" alt="Github stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thales971&theme=nightowl" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thales971&theme=nightowl" alt="GitHub Streak" height="175" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thales971&theme=nightowl" alt="Top Langs" height="175" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thales971&theme=nightowl" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thales971&theme=nightowl" alt="Github stats" />
+</div>
 
 ---
 
