@@ -94,10 +94,10 @@
 
 ---
 
-## 🟡 Contribuições estilo Pac-Man
+## 🐍 Contribuições Snake
 
 <div align="center">
-  <img src="assets/pacman-contrib.svg" width="900" alt="Contribuições estilo Pac-Man" />
+  <img src="https://raw.githubusercontent.com/Thales971/Thales971/output/snake.svg" width="900" alt="Snake contributions" />
 </div>
 
 ---
