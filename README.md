@@ -8,17 +8,15 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding banner" />
 </div>
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="24" alt="Typing"/> Cursando Técnico de Desenvolvimento de Sistemas no SENAI de Valinhos
+<br/>
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="24" alt="Typing"/> Interesses focados em **Front-end**, além de Segurança Cibernética e IoT
+- 🎓 Cursando **Técnico de Desenvolvimento de Sistemas** no SENAI de Valinhos
+- 💻 Interesses em **Front-end**, **Segurança Cibernética** e **IoT**
+- 🚀 Atualmente aprofundando conhecimentos em **JavaScript** e **React**
+- ⚡ Focado em me tornar um **Desenvolvedor Full Stack**
+- 📍 **Valinhos, SP** — Brasil
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="24" alt="Typing"/> Atualmente aprendendo mais sobre **JavaScript** e **React**
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="24" alt="Typing"/> Pergunte-me sobre **Front-end**
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="24" alt="Typing"/> Futuro desenvolvedor **Full Stack**
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="24" alt="Typing"/> 📍 Valinhos, SP — Brasil
+<br/>
 
 ---
 
@@ -44,6 +42,16 @@
   
 
 </p>
+
+---
+
+## 🏆 Principais Projetos
+
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| **[Em breve...](#)** | Projeto em fase de desenvolvimento focado em aplicar conceitos de Front-end. | `React` `CSS` |
+| **[Em breve...](#)** | Projeto acadêmico explorando integração com APIs e banco de dados. | `Node.js` `SQL` |
+| **[Em breve...](#)** | Experimentos com IoT e Segurança Cibernética. | `Python` `C++` |
 
 ---
 
