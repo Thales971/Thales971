@@ -113,7 +113,7 @@
 
 ---
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Code vibe" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTYzNWhwdGhqcWdwZ29oMTJmb2xkcmxwamI2d2YxcnllbDFiZTIxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="300" alt="Code vibe" />
 </div>
 
 
