@@ -11,8 +11,11 @@
 
   <path d="M 40 42 L 160 42 L 160 64 L 240 64 L 240 54 L 310 54 L 310 98 L 420 98 L 420 80 L 510 80 L 510 42 L 620 42 L 620 98 L 720 98" stroke="#e6edf3" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
 
-  <path d="M 820 92 A 32 32 0 1 1 820 28 L 820 92 Z" fill="#f2d10b"/>
-  <circle cx="832" cy="46" r="4" fill="#0d1117"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; -120 0; 0 0" dur="3s" repeatCount="indefinite" />
+    <path d="M 820 92 A 32 32 0 1 1 820 28 L 820 92 Z" fill="#f2d10b"/>
+    <circle cx="832" cy="46" r="4" fill="#0d1117"/>
+  </g>
 
   <circle cx="690" cy="86" r="7" fill="#ff6b6b"/>
   <circle cx="690" cy="86" r="3" fill="#0d1117"/>

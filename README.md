@@ -50,12 +50,12 @@
 ## ✨ Minhas Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thales971&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800&v=3" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thales971&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&cache_seconds=1800&v=3" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thales971&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800&v=4" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thales971&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&cache_seconds=1800&v=4" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Thales971&theme=github-dark-blue&hide_border=true&timezone=America%2FSao_Paulo&cache_seconds=1800&v=3" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Thales971&theme=github-dark-blue&hide_border=true&timezone=America%2FSao_Paulo&cache_seconds=1800&v=4" alt="GitHub Streak" />
 </div>
 
 ---
@@ -97,7 +97,7 @@
 ## 🟡 Contribuições estilo Pac-Man
 
 <div align="center">
-  <img src="assets/pacman-contrib.svg" width="900" alt="Contribuições estilo Pac-Man" />
+  <img src="https://raw.githubusercontent.com/tadowney/ai_pacman/main/images/pacman_ai.gif" width="900" alt="Contribuições estilo Pac-Man" />
 </div>
 
 ---
