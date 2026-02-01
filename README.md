@@ -97,7 +97,7 @@
 ## 🟡 Contribuições estilo Pac-Man
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tadowney/ai_pacman/main/images/pacman_ai.gif" width="900" alt="Contribuições estilo Pac-Man" />
+  <img src="assets/pacman-contrib.svg" width="900" alt="Contribuições estilo Pac-Man" />
 </div>
 
 ---
