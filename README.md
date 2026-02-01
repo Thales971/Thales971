@@ -45,16 +45,6 @@
 
 ---
 
-## 🏆 Principais Projetos
-
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| **[Em breve...](#)** | Projeto em fase de desenvolvimento focado em aplicar conceitos de Front-end. | `React` `CSS` |
-| **[Em breve...](#)** | Projeto acadêmico explorando integração com APIs e banco de dados. | `Node.js` `SQL` |
-| **[Em breve...](#)** | Experimentos com IoT e Segurança Cibernética. | `Python` `C++` |
-
----
-
 ## ✨ Minhas Estatísticas do GitHub
 
 <div align="center">
