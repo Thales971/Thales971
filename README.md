@@ -1,20 +1,22 @@
 <h1 align="center">
- Olá, eu sou o Thales <img src = "https://media.tenor.com/1dKXAaF4iuUAAAAM/pixel-trombone.gif" width = 50
+  Olá, eu sou o Thales <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" alt="Coding" />
 </h1>
 
 ---
 
-<img align = "center" src="https://img1.picmix.com/output/stamp/normal/1/5/0/6/2636051_85f8a.gif" width="300"/>
+<img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding banner" />
 
-<img src = "https://pa1.aminoapps.com/6190/843da51991fff9b6ab4e4cd0f2a4b1cb968b3f55_hq.gif" width = "40"/>Cursando Técnico de Desenvolvimento de Sistemas no SENAI de Valinhos
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="24" alt="Typing"/> Cursando Técnico de Desenvolvimento de Sistemas no SENAI de Valinhos
 
-<img src = "https://pa1.aminoapps.com/6190/843da51991fff9b6ab4e4cd0f2a4b1cb968b3f55_hq.gif" width = "40"/>Interesse em Segurança Cibernética, IoT e Perfumaria como hobby
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="24" alt="Typing"/> Interesses focados em **Front-end**, além de Segurança Cibernética e IoT
 
-<img src = "https://pa1.aminoapps.com/6190/843da51991fff9b6ab4e4cd0f2a4b1cb968b3f55_hq.gif" width = "40"/>Atualmente aprendendo mais sobre **JavaScript**
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="24" alt="Typing"/> Atualmente aprendendo mais sobre **JavaScript** e **React**
 
-<img src = "https://pa1.aminoapps.com/6190/843da51991fff9b6ab4e4cd0f2a4b1cb968b3f55_hq.gif" width = "40"/>Pergunte-me sobre **Segurança Cibernética**
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="24" alt="Typing"/> Pergunte-me sobre **Front-end**
 
-<img src = "https://pa1.aminoapps.com/6190/843da51991fff9b6ab4e4cd0f2a4b1cb968b3f55_hq.gif" width = "40"/> Curiosidade: **Quero ser perfumista no futuro**
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="24" alt="Typing"/> Futuro desenvolvedor **Full Stack**
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="24" alt="Typing"/> 📍 Valinhos, SP — Brasil
 
 ---
 
@@ -24,12 +26,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" alt="HTML5" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="60" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg" width="60" alt="Expo Go" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" alt="Express" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" alt="GitHub" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" alt="Git" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="60" alt="Figma" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" width="60" alt="Kanban (Trello)" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60" alt="VS Code" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" alt="PostgreSQL / pgAdmin" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" alt="Linux" />
   
 
 </p>
@@ -43,12 +50,50 @@
 ## ✨ Minhas Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonatanFavoreto&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhonatanFavoreto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thales971&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thales971&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=JhonatanFavoreto&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Thales971&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📅 Frase do dia
+
+> "Quando temos vontade, nada está perdido."
+
+<details>
+  <summary>Banco de frases (use uma por dia)</summary>
+
+  - "Quando temos vontade, nada está perdido."
+  - "Se pudesse redimir um erro terrível com sua própria vida... você não faria?"
+  - "Às vezes, o destino nos dá uma segunda chance. Não a desperdice."
+  - "Eu tenho um sonho: um dia cada pessoa controlará seu próprio destino."
+  - "Nanomachines, filho!"
+  - "Vamos queimar tudo. Das cinzas nascerá uma América evoluída."
+  - "Lute pelo que você acredita, não por uma empresa."
+  - "Palavras começam a revolução. A ação a termina."
+  - "Aqueles que conhecem ódio também conhecem tristeza."
+  - "Paz é só uma ilusão... mas vale a pena lutar por ela."
+  - "Se você não lutar, você morre. Se não lutar, não pode vencer."
+  - "Uma revolução sem dança não vale a pena."
+  - "O povo não deve temer o governo. O governo deve temer o povo."
+  - "Se você não arriscar, não criará um futuro!"
+  - "Quem diz 'não pode ser feito' nunca deve interromper quem está fazendo."
+  - "Aqueles que quebram as regras são lixo... mas aqueles que abandonam seus amigos são piores que lixo."
+  - "Às vezes, o herói que a cidade precisa não é o que ela merece."
+  - "Basta um dia ruim para reduzir o homem mais são à loucura."
+  - "Se você é bom em alguma coisa, nunca faça de graça."
+</details>
+
+---
+
+## 🟡 Contribuições estilo Pac-Man
+
+<div align="center">
+  <img src="assets/pacman-contrib.svg" width="900" alt="Contribuições estilo Pac-Man" />
 </div>
 
 ---
@@ -63,8 +108,8 @@
 
 
 ---
-<div align = "center">
-<img src="https://anundertalelover.wordpress.com/wp-content/uploads/2016/07/undertale_title_gif_by_foxy_the_pirate_fox3-d9i8aqz1.gif" width="300"/>]
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Code vibe" />
 </div>
 
 

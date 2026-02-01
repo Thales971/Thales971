@@ -1,0 +1,20 @@
+<svg width="900" height="130" viewBox="0 0 900 130" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Contribuições estilo Pac-Man">
+  <rect width="900" height="130" fill="#0d1117" rx="12"/>
+
+  <defs>
+    <pattern id="dot" width="14" height="14" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="10" height="10" rx="2" fill="#39d353"/>
+    </pattern>
+  </defs>
+
+  <rect x="20" y="20" width="700" height="90" fill="url(#dot)" opacity="0.9"/>
+
+  <path d="M 800 65 A 40 40 0 1 1 800 25 L 800 65 Z" fill="#f2d10b"/>
+  <circle cx="815" cy="52" r="5" fill="#0d1117"/>
+
+  <circle cx="735" cy="65" r="4" fill="#f2d10b"/>
+  <circle cx="755" cy="65" r="4" fill="#f2d10b"/>
+  <circle cx="775" cy="65" r="4" fill="#f2d10b"/>
+
+  <text x="20" y="15" fill="#c9d1d9" font-size="12" font-family="Segoe UI, Arial, sans-serif">Contribuições estilo Pac-Man</text>
+</svg>
