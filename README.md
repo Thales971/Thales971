@@ -61,7 +61,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Eu tenho um sonho: um dia cada pessoa controlará seu próprio destino."
+> "Nanomachines, filho!"
 <!-- QUOTE-END -->
 
 <details>
