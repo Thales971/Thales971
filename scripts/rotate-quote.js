@@ -13,7 +13,8 @@ if (!Array.isArray(quotes) || quotes.length === 0) {
 }
 
 const dayNumber = Math.floor(Date.now() / 86400000);
-const index = dayNumber % quotes.length;
+// Aleatório real a cada execução
+const index = Math.floor(Math.random() * quotes.length); 
 const quote = quotes[index];
 
 const quoteLine = `> "${quote}"`;

@@ -57,12 +57,12 @@
     <td width="60%" valign="top">
       <table>
         <tr><th>Habilidade</th><th>Nível</th></tr>
-        <tr><td><b>Lógica de Programação</b></td><td>██████████ (Avançado)</td></tr>
-        <tr><td><b>Administração de Sistemas</b></td><td>████████░░ (Intermediário)</td></tr>
-        <tr><td><b>Engenharia de Requisitos</b></td><td>████████░░ (Intermediário)</td></tr>
-        <tr><td><b>Redes e Segurança</b></td><td>████████░░ (Intermediário)</td></tr>
-        <tr><td><b>Modelagem de Dados</b></td><td>██████░░░░ (Intermediário)</td></tr>
-        <tr><td><b>Desenvolvimento Web</b></td><td>██████░░░░ (Intermediário)</td></tr>
+        <tr><td><b>Lógica de Programação</b></td><td><img src="https://img.shields.io/badge/-Avançado-2ea44f?style=flat-square&logoColor=white" alt="Avançado"></td></tr>
+        <tr><td><b>Administração de Sistemas</b></td><td><img src="https://img.shields.io/badge/-Intermediário-blue?style=flat-square&logoColor=white" alt="Intermediário"></td></tr>
+        <tr><td><b>Engenharia de Requisitos</b></td><td><img src="https://img.shields.io/badge/-Intermediário-blue?style=flat-square&logoColor=white" alt="Intermediário"></td></tr>
+        <tr><td><b>Redes e Segurança</b></td><td><img src="https://img.shields.io/badge/-Intermediário-blue?style=flat-square&logoColor=white" alt="Intermediário"></td></tr>
+        <tr><td><b>Modelagem de Dados</b></td><td><img src="https://img.shields.io/badge/-Intermediário-blue?style=flat-square&logoColor=white" alt="Intermediário"></td></tr>
+        <tr><td><b>Desenvolvimento Web</b></td><td><img src="https://img.shields.io/badge/-Intermediário-blue?style=flat-square&logoColor=white" alt="Intermediário"></td></tr>
       </table>
     </td>
     <td width="40%" align="center">
