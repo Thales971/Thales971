@@ -79,8 +79,6 @@
   <img src="https://komarev.com/ghpvc/?username=Thales971&style=flat-square&color=blueviolet&label=Visitantes+do+Perfil" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Thales971?style=flat-square&color=blueviolet&label=Seguidores&logo=github" alt="Followers" />
   <img src="https://img.shields.io/github/public-repos/Thales971?style=flat-square&color=blueviolet&label=Repositórios&logo=github" alt="Public Repos" />
-  <img src="https://img.shields.io/github/last-commit/Thales971/Thales971?style=flat-square&color=blueviolet&label=Último%20Commit&logo=git" alt="Last Commit" />
-  <img src="https://img.shields.io/github/languages/count/Thales971/Thales971?style=flat-square&color=blueviolet&label=Linguagens&logo=code" alt="Languages Count" />
 </div>
 
 ---
@@ -135,7 +133,7 @@
 ## 🐍 Contribuições Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Thales971/Thales971/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Thales971/Thales971/output/github-contribution-grid-snake-dark.svg?v=1" alt="Snake animation" />
 </div>
 
 ---
