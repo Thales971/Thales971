@@ -95,12 +95,16 @@
 
 ---
 
-## 🐍 Contribuições Snake & Pac-Man
+## 🐍 Contribuições Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Thales971/Thales971/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-<br/>
+
+---
+
+## 🟡 Contribuições Pac-Man
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Thales971/Thales971/output/pacman-contribution-graph.svg" alt="Pac-Man animation" />
 </div>
