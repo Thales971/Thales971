@@ -61,7 +61,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Nanomachines, filho!"
+> "Vamos queimar tudo. Das cinzas nascerá uma América evoluída."
 <!-- QUOTE-END -->
 
 <details>
