@@ -39,6 +39,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60" alt="VS Code" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" alt="PostgreSQL / pgAdmin" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="60" alt="Windows" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="60" alt="Postman" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="60" alt="Terminal" />
   
 
 </p>
@@ -92,10 +95,14 @@
 
 ---
 
-## 🐍 Contribuições Snake
+## 🐍 Contribuições Snake & Pac-Man
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Thales971/Thales971/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Thales971/Thales971/output/pacman-contribution-graph.svg" alt="Pac-Man animation" />
 </div>
 
 ---
