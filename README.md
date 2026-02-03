@@ -52,14 +52,24 @@
 
 ## 🎯 Nível de Experiência Atual
 
-| Habilidade | Nível |
-| :--- | :--- |
-| **Lógica de Programação** | ⭐⭐⭐⭐⭐ (Avançado) |
-| **Administração de Sistemas** | ⭐⭐⭐⭐ (Intermediário) |
-| **Engenharia de Requisitos** | ⭐⭐⭐⭐ (Intermediário) |
-| **Redes e Segurança** | ⭐⭐⭐⭐ (Intermediário) |
-| **Modelagem de Dados** | ⭐⭐⭐ (Intermediário) |
-| **Desenvolvimento Web** | ⭐⭐⭐ (Intermediário) |
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <table>
+        <tr><th>Habilidade</th><th>Nível</th></tr>
+        <tr><td><b>Lógica de Programação</b></td><td>██████████ (Avançado)</td></tr>
+        <tr><td><b>Administração de Sistemas</b></td><td>████████░░ (Intermediário)</td></tr>
+        <tr><td><b>Engenharia de Requisitos</b></td><td>████████░░ (Intermediário)</td></tr>
+        <tr><td><b>Redes e Segurança</b></td><td>████████░░ (Intermediário)</td></tr>
+        <tr><td><b>Modelagem de Dados</b></td><td>██████░░░░ (Intermediário)</td></tr>
+        <tr><td><b>Desenvolvimento Web</b></td><td>██████░░░░ (Intermediário)</td></tr>
+      </table>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNueHUwMzg3OW9oMjcxcHppbnR6cTZnMXI5c3JiejZxMmM1ajV5dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q6oUS1vaXPndgrHjvU/200.gif" alt="Coding GIF" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -67,6 +77,10 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Thales971&style=flat-square&color=blueviolet&label=Visitantes+do+Perfil" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Thales971?style=flat-square&color=blueviolet&label=Seguidores&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/public-repos/Thales971?style=flat-square&color=blueviolet&label=Repositórios&logo=github" alt="Public Repos" />
+  <img src="https://img.shields.io/github/last-commit/Thales971/Thales971?style=flat-square&color=blueviolet&label=Último%20Commit&logo=git" alt="Last Commit" />
+  <img src="https://img.shields.io/github/languages/count/Thales971/Thales971?style=flat-square&color=blueviolet&label=Linguagens&logo=code" alt="Languages Count" />
 </div>
 
 ---
