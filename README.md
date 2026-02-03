@@ -14,6 +14,8 @@
 - 💻 Interesses em **Front-end**, **Segurança Cibernética** e **IoT**
 - 🚀 Atualmente aprofundando conhecimentos em **JavaScript** e **React**
 - ⚡ Focado em me tornar um **Desenvolvedor Full Stack**
+- 🍛 **Comida favorita:** Strogonoff de carne e Açaí
+- 💪 **Esporte favorito:** Armwrestling (Queda de Braço)
 - 📍 **Valinhos, SP** — Brasil
 
 <br/>
@@ -45,6 +47,27 @@
   
 
 </p>
+
+---
+
+## 🎯 Nível de Experiência Atual
+
+| Habilidade | Nível |
+| :--- | :--- |
+| **Lógica de Programação** | ⭐⭐⭐⭐⭐ (Avançado) |
+| **Administração de Sistemas** | ⭐⭐⭐⭐ (Intermediário) |
+| **Engenharia de Requisitos** | ⭐⭐⭐⭐ (Intermediário) |
+| **Redes e Segurança** | ⭐⭐⭐⭐ (Intermediário) |
+| **Modelagem de Dados** | ⭐⭐⭐ (Intermediário) |
+| **Desenvolvimento Web** | ⭐⭐⭐ (Intermediário) |
+
+---
+
+## 📊 Análise do Perfil
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Thales971&style=flat-square&color=blueviolet&label=Visitantes+do+Perfil" alt="Profile Views" />
+</div>
 
 ---
 
@@ -103,10 +126,10 @@
 
 ---
 
-## 🟡 Contribuições Pac-Man
+## 🟡 Contribuições Pac-Man (Dark Mode)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Thales971/Thales971/output/pacman-contribution-graph.svg" alt="Pac-Man animation" />
+  <img src="https://raw.githubusercontent.com/Thales971/Thales971/output/pacman-contribution-graph-dark.svg" alt="Pac-Man animation" />
 </div>
 
 ---
@@ -117,6 +140,9 @@
 </a>
 <a href="https://www.instagram.com/thaleslynx/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="50" alt="Instagram"/>
+</a>
+<a href="mailto:torsattothales@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="50" alt="Gmail"/>
 </a>
 
 
