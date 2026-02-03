@@ -78,7 +78,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Thales971&style=flat-square&color=blueviolet&label=Visitantes+do+Perfil" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Thales971?style=flat-square&color=blueviolet&label=Seguidores&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/public-repos/Thales971?style=flat-square&color=blueviolet&label=Repositórios&logo=github" alt="Public Repos" />
 </div>
 
 ---
