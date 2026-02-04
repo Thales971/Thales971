@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Vamos queimar tudo. Das cinzas nascerá uma América evoluída."
+> "A maldição surge do coração humano  mas a técnica nasce da disciplina diária."
 <!-- QUOTE-END -->
 
 <details>
@@ -124,6 +124,36 @@
   - "Às vezes, o herói que a cidade precisa não é o que ela merece."
   - "Basta um dia ruim para reduzir o homem mais são à loucura."
   - "Se você é bom em alguma coisa, nunca faça de graça."
+  - "A maldição surge do coração humano  mas a técnica nasce da disciplina diária."
+  - "Força não é ausência de medo; é avançar mesmo quando tudo dentro de você grita para recuar."
+  - "Domine sua energia antes que ela o domine  o código, como a maldição, exige controle absoluto."
+  - "Uma técnica máxima acontece quando corpo e mente se tornam um só  assim é a entrega perfeita."
+  - "Não lute contra a maldição; transforme-a em sua maior arma."
+  - "O verdadeiro poder está em proteger os outros, mesmo que ninguém jamais saiba seu nome."
+  - "Cada erro é uma maldição  mas também uma oportunidade para evoluir."
+  - "Expansão de domínio não é sobre espaço; é sobre certeza absoluta no que você constrói."
+  - "Eu vou morrer como alguém que viveu plenamente  comece hoje."
+  - "Até os dedos mais fracos têm seu propósito quando unidos a uma vontade inquebrantável."
+  - "Como Yugo, encontre portais onde outros veem paredes  a criatividade move montanhas."
+  - "O verdadeiro poder não está em dominar os elementos, mas em harmonizá-los."
+  - "Adamaï não voa sozinho: até os dragões precisam de aliados de confiança."
+  - "Equilíbrio não é estagnação  é movimento consciente entre caos e ordem."
+  - "Como Ruel, defenda seu código com a ferocidade de um cavaleiro sem rei."
+  - "A terra só floresce depois da tempestade  persista além dos bugs aparentemente impossíveis."
+  - "Amalia ensina: liderança é servir, não comandar."
+  - "O tempo de Xelor não para  use cada segundo com intenção."
+  - "Wakfu é a energia da vida: alimente seus projetos com paixão, não apenas com lógica."
+  - "Até os Sadidas mais quietos carregam raízes profundas  valorize o trabalho silencioso."
+  - "Kept you waiting, huh?  a paciência é a arma mais subestimada do desenvolvedor."
+  - "Guerra não é sobre vitória; é sobre garantir que a próxima geração não precise lutar."
+  - "Informação é poder  mas sabedoria é saber quando não usá-la."
+  - "Um soldado verdadeiro não busca glória; busca paz para os outros."
+  - "No mundo digital, todos são invisíveis  até que seu código fale por você."
+  - "I'm no hero  apenas alguém que faz o que precisa ser feito, sem aplausos."
+  - "A solidão do campo de batalha é onde nascem as decisões mais fortes."
+  - "O verdadeiro inimigo nunca é o código  é a complacência diante do erro."
+  - "Como Snake, carregue o peso das escolhas passadas para construir um futuro melhor."
+  - "Missão cumprida não é um commit  é saber que seu trabalho protegeu algo maior."
 <!-- QUOTES-LIST-END -->
 </details>
 
