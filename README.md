@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "A maldição surge do coração humano  mas a técnica nasce da disciplina diária."
+> "Às vezes, o herói que a cidade precisa não é o que ela merece."
 <!-- QUOTE-END -->
 
 <details>
