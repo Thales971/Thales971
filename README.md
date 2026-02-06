@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Às vezes, o herói que a cidade precisa não é o que ela merece."
+> "Às vezes, o destino nos dá uma segunda chance. Não a desperdice."
 <!-- QUOTE-END -->
 
 <details>
