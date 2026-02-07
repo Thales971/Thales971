@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Às vezes, o destino nos dá uma segunda chance. Não a desperdice."
+> "Quando temos vontade, nada está perdido."
 <!-- QUOTE-END -->
 
 <details>
