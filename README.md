@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Se você não arriscar, não criará um futuro!"
+> "O verdadeiro inimigo nunca é o código  é a complacência diante do erro."
 <!-- QUOTE-END -->
 
 <details>
