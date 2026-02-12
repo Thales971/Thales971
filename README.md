@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Guerra não é sobre vitória; é sobre garantir que a próxima geração não precise lutar."
+> "O tempo de Xelor não para  use cada segundo com intenção."
 <!-- QUOTE-END -->
 
 <details>
