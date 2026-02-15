@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Força não é ausência de medo; é avançar mesmo quando tudo dentro de você grita para recuar."
+> "Como Snake, carregue o peso das escolhas passadas para construir um futuro melhor."
 <!-- QUOTE-END -->
 
 <details>
