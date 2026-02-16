@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Como Snake, carregue o peso das escolhas passadas para construir um futuro melhor."
+> "Se você é bom em alguma coisa, nunca faça de graça."
 <!-- QUOTE-END -->
 
 <details>
