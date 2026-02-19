@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Informação é poder  mas sabedoria é saber quando não usá-la."
+> "Quando temos vontade, nada está perdido."
 <!-- QUOTE-END -->
 
 <details>
