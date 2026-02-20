@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Quando temos vontade, nada está perdido."
+> "Força não é ausência de medo; é avançar mesmo quando tudo dentro de você grita para recuar."
 <!-- QUOTE-END -->
 
 <details>
