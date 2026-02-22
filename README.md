@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Expansão de domínio não é sobre espaço; é sobre certeza absoluta no que você constrói."
+> "A terra só floresce depois da tempestade  persista além dos bugs aparentemente impossíveis."
 <!-- QUOTE-END -->
 
 <details>
