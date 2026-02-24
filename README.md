@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Aqueles que conhecem ódio também conhecem tristeza."
+> "Wakfu é a energia da vida: alimente seus projetos com paixão, não apenas com lógica."
 <!-- QUOTE-END -->
 
 <details>
