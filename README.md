@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Wakfu é a energia da vida: alimente seus projetos com paixão, não apenas com lógica."
+> "Um soldado verdadeiro não busca glória; busca paz para os outros."
 <!-- QUOTE-END -->
 
 <details>
