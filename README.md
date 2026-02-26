@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Um soldado verdadeiro não busca glória; busca paz para os outros."
+> "Se você não lutar, você morre. Se não lutar, não pode vencer."
 <!-- QUOTE-END -->
 
 <details>
