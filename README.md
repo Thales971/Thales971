@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Adamaï não voa sozinho: até os dragões precisam de aliados de confiança."
+> "Como Ruel, defenda seu código com a ferocidade de um cavaleiro sem rei."
 <!-- QUOTE-END -->
 
 <details>
