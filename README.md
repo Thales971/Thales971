@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Um soldado verdadeiro não busca glória; busca paz para os outros."
+> "Uma técnica máxima acontece quando corpo e mente se tornam um só  assim é a entrega perfeita."
 <!-- QUOTE-END -->
 
 <details>
