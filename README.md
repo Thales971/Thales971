@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Uma técnica máxima acontece quando corpo e mente se tornam um só  assim é a entrega perfeita."
+> "Lute pelo que você acredita, não por uma empresa."
 <!-- QUOTE-END -->
 
 <details>
