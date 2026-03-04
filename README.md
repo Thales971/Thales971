@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Lute pelo que você acredita, não por uma empresa."
+> "Eu tenho um sonho: um dia cada pessoa controlará seu próprio destino."
 <!-- QUOTE-END -->
 
 <details>
