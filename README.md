@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Eu tenho um sonho: um dia cada pessoa controlará seu próprio destino."
+> "Equilíbrio não é estagnação  é movimento consciente entre caos e ordem."
 <!-- QUOTE-END -->
 
 <details>
