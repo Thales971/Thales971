@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "I'm no hero  apenas alguém que faz o que precisa ser feito, sem aplausos."
+> "Até os Sadidas mais quietos carregam raízes profundas  valorize o trabalho silencioso."
 <!-- QUOTE-END -->
 
 <details>
