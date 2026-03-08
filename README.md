@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Até os Sadidas mais quietos carregam raízes profundas  valorize o trabalho silencioso."
+> "Quando temos vontade, nada está perdido."
 <!-- QUOTE-END -->
 
 <details>
