@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Quando temos vontade, nada está perdido."
+> "O verdadeiro poder está em proteger os outros, mesmo que ninguém jamais saiba seu nome."
 <!-- QUOTE-END -->
 
 <details>
