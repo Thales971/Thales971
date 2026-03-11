@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Adamaï não voa sozinho: até os dragões precisam de aliados de confiança."
+> "Cada erro é uma maldição  mas também uma oportunidade para evoluir."
 <!-- QUOTE-END -->
 
 <details>
