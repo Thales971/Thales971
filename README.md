@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Cada erro é uma maldição  mas também uma oportunidade para evoluir."
+> "Eu tenho um sonho: um dia cada pessoa controlará seu próprio destino."
 <!-- QUOTE-END -->
 
 <details>
