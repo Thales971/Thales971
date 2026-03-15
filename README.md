@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Cada erro é uma maldição  mas também uma oportunidade para evoluir."
+> "Não lute contra a maldição; transforme-a em sua maior arma."
 <!-- QUOTE-END -->
 
 <details>
