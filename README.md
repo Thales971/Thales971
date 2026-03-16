@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Não lute contra a maldição; transforme-a em sua maior arma."
+> "Até os dedos mais fracos têm seu propósito quando unidos a uma vontade inquebrantável."
 <!-- QUOTE-END -->
 
 <details>
