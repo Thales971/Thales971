@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Até os dedos mais fracos têm seu propósito quando unidos a uma vontade inquebrantável."
+> "Palavras começam a revolução. A ação a termina."
 <!-- QUOTE-END -->
 
 <details>
