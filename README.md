@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Palavras começam a revolução. A ação a termina."
+> "A maldição surge do coração humano  mas a técnica nasce da disciplina diária."
 <!-- QUOTE-END -->
 
 <details>
