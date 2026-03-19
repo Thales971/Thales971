@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "A maldição surge do coração humano  mas a técnica nasce da disciplina diária."
+> "Não lute contra a maldição; transforme-a em sua maior arma."
 <!-- QUOTE-END -->
 
 <details>
