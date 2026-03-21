@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Se você é bom em alguma coisa, nunca faça de graça."
+> "Aqueles que quebram as regras são lixo... mas aqueles que abandonam seus amigos são piores que lixo."
 <!-- QUOTE-END -->
 
 <details>
