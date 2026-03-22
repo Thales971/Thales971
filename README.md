@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Aqueles que quebram as regras são lixo... mas aqueles que abandonam seus amigos são piores que lixo."
+> "Se você não lutar, você morre. Se não lutar, não pode vencer."
 <!-- QUOTE-END -->
 
 <details>
