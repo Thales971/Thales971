@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Se você não lutar, você morre. Se não lutar, não pode vencer."
+> "Como Snake, carregue o peso das escolhas passadas para construir um futuro melhor."
 <!-- QUOTE-END -->
 
 <details>
