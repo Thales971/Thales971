@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Como Snake, carregue o peso das escolhas passadas para construir um futuro melhor."
+> "Palavras começam a revolução. A ação a termina."
 <!-- QUOTE-END -->
 
 <details>
