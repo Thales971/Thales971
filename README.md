@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Palavras começam a revolução. A ação a termina."
+> "O verdadeiro inimigo nunca é o código  é a complacência diante do erro."
 <!-- QUOTE-END -->
 
 <details>
