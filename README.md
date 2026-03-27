@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Se você é bom em alguma coisa, nunca faça de graça."
+> "Às vezes, o destino nos dá uma segunda chance. Não a desperdice."
 <!-- QUOTE-END -->
 
 <details>
