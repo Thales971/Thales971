@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Às vezes, o destino nos dá uma segunda chance. Não a desperdice."
+> "Lute pelo que você acredita, não por uma empresa."
 <!-- QUOTE-END -->
 
 <details>
