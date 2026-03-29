@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Lute pelo que você acredita, não por uma empresa."
+> "Se você não arriscar, não criará um futuro!"
 <!-- QUOTE-END -->
 
 <details>
