@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Como Yugo, encontre portais onde outros veem paredes  a criatividade move montanhas."
+> "Adamaï não voa sozinho: até os dragões precisam de aliados de confiança."
 <!-- QUOTE-END -->
 
 <details>
