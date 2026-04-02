@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Adamaï não voa sozinho: até os dragões precisam de aliados de confiança."
+> "Informação é poder  mas sabedoria é saber quando não usá-la."
 <!-- QUOTE-END -->
 
 <details>
