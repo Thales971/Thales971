@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Informação é poder  mas sabedoria é saber quando não usá-la."
+> "Amalia ensina: liderança é servir, não comandar."
 <!-- QUOTE-END -->
 
 <details>
