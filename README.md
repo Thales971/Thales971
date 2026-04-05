@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Se você é bom em alguma coisa, nunca faça de graça."
+> "Amalia ensina: liderança é servir, não comandar."
 <!-- QUOTE-END -->
 
 <details>
