@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Amalia ensina: liderança é servir, não comandar."
+> "Até os dedos mais fracos têm seu propósito quando unidos a uma vontade inquebrantável."
 <!-- QUOTE-END -->
 
 <details>
