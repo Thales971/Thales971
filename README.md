@@ -98,7 +98,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Até os dedos mais fracos têm seu propósito quando unidos a uma vontade inquebrantável."
+> "Aqueles que quebram as regras são lixo... mas aqueles que abandonam seus amigos são piores que lixo."
 <!-- QUOTE-END -->
 
 <details>
