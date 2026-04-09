@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "No mundo digital, todos são invisíveis  até que seu código fale por você."
+> "Amalia ensina: liderança é servir, não comandar."
 <!-- QUOTE-END -->
 
 <details>
