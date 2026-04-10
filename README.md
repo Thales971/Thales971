@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Amalia ensina: liderança é servir, não comandar."
+> "O povo não deve temer o governo. O governo deve temer o povo."
 <!-- QUOTE-END -->
 
 <details>
