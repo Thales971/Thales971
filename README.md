@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "O povo não deve temer o governo. O governo deve temer o povo."
+> "Força não é ausência de medo; é avançar mesmo quando tudo dentro de você grita para recuar."
 <!-- QUOTE-END -->
 
 <details>
