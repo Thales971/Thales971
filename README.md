@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Força não é ausência de medo; é avançar mesmo quando tudo dentro de você grita para recuar."
+> "Expansão de domínio não é sobre espaço; é sobre certeza absoluta no que você constrói."
 <!-- QUOTE-END -->
 
 <details>
