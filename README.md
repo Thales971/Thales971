@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Expansão de domínio não é sobre espaço; é sobre certeza absoluta no que você constrói."
+> "Como Ruel, defenda seu código com a ferocidade de um cavaleiro sem rei."
 <!-- QUOTE-END -->
 
 <details>
