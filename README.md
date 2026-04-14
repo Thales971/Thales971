@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Como Ruel, defenda seu código com a ferocidade de um cavaleiro sem rei."
+> "Palavras começam a revolução. A ação a termina."
 <!-- QUOTE-END -->
 
 <details>
