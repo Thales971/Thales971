@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Palavras começam a revolução. A ação a termina."
+> "Se você não arriscar, não criará um futuro!"
 <!-- QUOTE-END -->
 
 <details>
