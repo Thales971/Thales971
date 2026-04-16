@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Se você não arriscar, não criará um futuro!"
+> "Quando temos vontade, nada está perdido."
 <!-- QUOTE-END -->
 
 <details>
