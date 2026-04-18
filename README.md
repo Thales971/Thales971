@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "I'm no hero  apenas alguém que faz o que precisa ser feito, sem aplausos."
+> "Equilíbrio não é estagnação  é movimento consciente entre caos e ordem."
 <!-- QUOTE-END -->
 
 <details>
