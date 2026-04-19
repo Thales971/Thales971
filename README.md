@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Equilíbrio não é estagnação  é movimento consciente entre caos e ordem."
+> "Às vezes, o destino nos dá uma segunda chance. Não a desperdice."
 <!-- QUOTE-END -->
 
 <details>
