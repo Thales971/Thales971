@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Às vezes, o destino nos dá uma segunda chance. Não a desperdice."
+> "Informação é poder  mas sabedoria é saber quando não usá-la."
 <!-- QUOTE-END -->
 
 <details>
