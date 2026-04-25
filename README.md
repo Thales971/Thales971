@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "O verdadeiro inimigo nunca é o código  é a complacência diante do erro."
+> "O verdadeiro poder não está em dominar os elementos, mas em harmonizá-los."
 <!-- QUOTE-END -->
 
 <details>
