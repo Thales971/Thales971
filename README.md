@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Uma técnica máxima acontece quando corpo e mente se tornam um só  assim é a entrega perfeita."
+> "Um soldado verdadeiro não busca glória; busca paz para os outros."
 <!-- QUOTE-END -->
 
 <details>
