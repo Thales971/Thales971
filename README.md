@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Um soldado verdadeiro não busca glória; busca paz para os outros."
+> "Vamos queimar tudo. Das cinzas nascerá uma América evoluída."
 <!-- QUOTE-END -->
 
 <details>
