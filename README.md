@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Vamos queimar tudo. Das cinzas nascerá uma América evoluída."
+> "Lute pelo que você acredita, não por uma empresa."
 <!-- QUOTE-END -->
 
 <details>
