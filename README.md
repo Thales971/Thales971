@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Quem diz 'não pode ser feito' nunca deve interromper quem está fazendo."
+> "A terra só floresce depois da tempestade  persista além dos bugs aparentemente impossíveis."
 <!-- QUOTE-END -->
 
 <details>
