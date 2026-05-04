@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Como Ruel, defenda seu código com a ferocidade de um cavaleiro sem rei."
+> "Equilíbrio não é estagnação  é movimento consciente entre caos e ordem."
 <!-- QUOTE-END -->
 
 <details>
