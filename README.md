@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Equilíbrio não é estagnação  é movimento consciente entre caos e ordem."
+> "Se você não lutar, você morre. Se não lutar, não pode vencer."
 <!-- QUOTE-END -->
 
 <details>
