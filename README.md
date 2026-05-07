@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Se você não lutar, você morre. Se não lutar, não pode vencer."
+> "Se você é bom em alguma coisa, nunca faça de graça."
 <!-- QUOTE-END -->
 
 <details>
