@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Se você é bom em alguma coisa, nunca faça de graça."
+> "Força não é ausência de medo; é avançar mesmo quando tudo dentro de você grita para recuar."
 <!-- QUOTE-END -->
 
 <details>
