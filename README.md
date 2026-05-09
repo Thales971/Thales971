@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Força não é ausência de medo; é avançar mesmo quando tudo dentro de você grita para recuar."
+> "Se pudesse redimir um erro terrível com sua própria vida... você não faria?"
 <!-- QUOTE-END -->
 
 <details>
