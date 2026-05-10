@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Se pudesse redimir um erro terrível com sua própria vida... você não faria?"
+> "Quem diz 'não pode ser feito' nunca deve interromper quem está fazendo."
 <!-- QUOTE-END -->
 
 <details>
