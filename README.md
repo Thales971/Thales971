@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Quem diz 'não pode ser feito' nunca deve interromper quem está fazendo."
+> "Quando temos vontade, nada está perdido."
 <!-- QUOTE-END -->
 
 <details>
