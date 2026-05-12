@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Quando temos vontade, nada está perdido."
+> "Se você é bom em alguma coisa, nunca faça de graça."
 <!-- QUOTE-END -->
 
 <details>
