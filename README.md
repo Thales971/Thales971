@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "A maldição surge do coração humano  mas a técnica nasce da disciplina diária."
+> "Paz é só uma ilusão... mas vale a pena lutar por ela."
 <!-- QUOTE-END -->
 
 <details>
