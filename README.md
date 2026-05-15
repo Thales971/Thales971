@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Paz é só uma ilusão... mas vale a pena lutar por ela."
+> "Uma revolução sem dança não vale a pena."
 <!-- QUOTE-END -->
 
 <details>
