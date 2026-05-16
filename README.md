@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Uma revolução sem dança não vale a pena."
+> "Adamaï não voa sozinho: até os dragões precisam de aliados de confiança."
 <!-- QUOTE-END -->
 
 <details>
