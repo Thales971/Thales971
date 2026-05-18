@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Cada erro é uma maldição  mas também uma oportunidade para evoluir."
+> "Vamos queimar tudo. Das cinzas nascerá uma América evoluída."
 <!-- QUOTE-END -->
 
 <details>
