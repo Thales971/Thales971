@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Vamos queimar tudo. Das cinzas nascerá uma América evoluída."
+> "Como Ruel, defenda seu código com a ferocidade de um cavaleiro sem rei."
 <!-- QUOTE-END -->
 
 <details>
