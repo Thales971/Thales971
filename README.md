@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "A solidão do campo de batalha é onde nascem as decisões mais fortes."
+> "Uma técnica máxima acontece quando corpo e mente se tornam um só  assim é a entrega perfeita."
 <!-- QUOTE-END -->
 
 <details>
