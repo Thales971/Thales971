@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Uma técnica máxima acontece quando corpo e mente se tornam um só  assim é a entrega perfeita."
+> "Cada erro é uma maldição  mas também uma oportunidade para evoluir."
 <!-- QUOTE-END -->
 
 <details>
