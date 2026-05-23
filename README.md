@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Cada erro é uma maldição  mas também uma oportunidade para evoluir."
+> "Guerra não é sobre vitória; é sobre garantir que a próxima geração não precise lutar."
 <!-- QUOTE-END -->
 
 <details>
