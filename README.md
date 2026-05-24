@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Guerra não é sobre vitória; é sobre garantir que a próxima geração não precise lutar."
+> "A terra só floresce depois da tempestade  persista além dos bugs aparentemente impossíveis."
 <!-- QUOTE-END -->
 
 <details>
