@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "A terra só floresce depois da tempestade  persista além dos bugs aparentemente impossíveis."
+> "Paz é só uma ilusão... mas vale a pena lutar por ela."
 <!-- QUOTE-END -->
 
 <details>
