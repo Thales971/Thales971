@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Paz é só uma ilusão... mas vale a pena lutar por ela."
+> "Informação é poder  mas sabedoria é saber quando não usá-la."
 <!-- QUOTE-END -->
 
 <details>
