@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Informação é poder  mas sabedoria é saber quando não usá-la."
+> "Uma revolução sem dança não vale a pena."
 <!-- QUOTE-END -->
 
 <details>
