@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Uma revolução sem dança não vale a pena."
+> "O povo não deve temer o governo. O governo deve temer o povo."
 <!-- QUOTE-END -->
 
 <details>
