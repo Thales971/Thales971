@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Aqueles que quebram as regras são lixo... mas aqueles que abandonam seus amigos são piores que lixo."
+> "Quem diz 'não pode ser feito' nunca deve interromper quem está fazendo."
 <!-- QUOTE-END -->
 
 <details>
