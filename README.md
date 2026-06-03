@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Informação é poder  mas sabedoria é saber quando não usá-la."
+> "Como Ruel, defenda seu código com a ferocidade de um cavaleiro sem rei."
 <!-- QUOTE-END -->
 
 <details>
