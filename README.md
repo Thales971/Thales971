@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Como Ruel, defenda seu código com a ferocidade de um cavaleiro sem rei."
+> "No mundo digital, todos são invisíveis  até que seu código fale por você."
 <!-- QUOTE-END -->
 
 <details>
