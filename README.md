@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "No mundo digital, todos são invisíveis  até que seu código fale por você."
+> "Se você não arriscar, não criará um futuro!"
 <!-- QUOTE-END -->
 
 <details>
