@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Se você não arriscar, não criará um futuro!"
+> "Basta um dia ruim para reduzir o homem mais são à loucura."
 <!-- QUOTE-END -->
 
 <details>
