@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Basta um dia ruim para reduzir o homem mais são à loucura."
+> "Até os dedos mais fracos têm seu propósito quando unidos a uma vontade inquebrantável."
 <!-- QUOTE-END -->
 
 <details>
