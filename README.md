@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Até os dedos mais fracos têm seu propósito quando unidos a uma vontade inquebrantável."
+> "Eu vou morrer como alguém que viveu plenamente  comece hoje."
 <!-- QUOTE-END -->
 
 <details>
