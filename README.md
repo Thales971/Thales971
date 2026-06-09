@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Eu vou morrer como alguém que viveu plenamente  comece hoje."
+> "I'm no hero  apenas alguém que faz o que precisa ser feito, sem aplausos."
 <!-- QUOTE-END -->
 
 <details>
