@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Palavras começam a revolução. A ação a termina."
+> "I'm no hero  apenas alguém que faz o que precisa ser feito, sem aplausos."
 <!-- QUOTE-END -->
 
 <details>
