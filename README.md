@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "I'm no hero  apenas alguém que faz o que precisa ser feito, sem aplausos."
+> "Como Yugo, encontre portais onde outros veem paredes  a criatividade move montanhas."
 <!-- QUOTE-END -->
 
 <details>
