@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Como Yugo, encontre portais onde outros veem paredes  a criatividade move montanhas."
+> "Aqueles que quebram as regras são lixo... mas aqueles que abandonam seus amigos são piores que lixo."
 <!-- QUOTE-END -->
 
 <details>
