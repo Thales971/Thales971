@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Aqueles que quebram as regras são lixo... mas aqueles que abandonam seus amigos são piores que lixo."
+> "Equilíbrio não é estagnação  é movimento consciente entre caos e ordem."
 <!-- QUOTE-END -->
 
 <details>
