@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Quem diz 'não pode ser feito' nunca deve interromper quem está fazendo."
+> "Cada erro é uma maldição  mas também uma oportunidade para evoluir."
 <!-- QUOTE-END -->
 
 <details>
