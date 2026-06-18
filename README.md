@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Uma técnica máxima acontece quando corpo e mente se tornam um só  assim é a entrega perfeita."
+> "O verdadeiro poder não está em dominar os elementos, mas em harmonizá-los."
 <!-- QUOTE-END -->
 
 <details>
