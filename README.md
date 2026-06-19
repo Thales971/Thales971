@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "O verdadeiro poder não está em dominar os elementos, mas em harmonizá-los."
+> "Guerra não é sobre vitória; é sobre garantir que a próxima geração não precise lutar."
 <!-- QUOTE-END -->
 
 <details>
