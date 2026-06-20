@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Guerra não é sobre vitória; é sobre garantir que a próxima geração não precise lutar."
+> "Quem diz 'não pode ser feito' nunca deve interromper quem está fazendo."
 <!-- QUOTE-END -->
 
 <details>
