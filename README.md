@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Quem diz 'não pode ser feito' nunca deve interromper quem está fazendo."
+> "Wakfu é a energia da vida: alimente seus projetos com paixão, não apenas com lógica."
 <!-- QUOTE-END -->
 
 <details>
