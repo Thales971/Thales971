@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Wakfu é a energia da vida: alimente seus projetos com paixão, não apenas com lógica."
+> "O povo não deve temer o governo. O governo deve temer o povo."
 <!-- QUOTE-END -->
 
 <details>
