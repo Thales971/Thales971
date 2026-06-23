@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "O povo não deve temer o governo. O governo deve temer o povo."
+> "Não lute contra a maldição; transforme-a em sua maior arma."
 <!-- QUOTE-END -->
 
 <details>
