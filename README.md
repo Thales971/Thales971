@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Kept you waiting, huh?  a paciência é a arma mais subestimada do desenvolvedor."
+> "I'm no hero  apenas alguém que faz o que precisa ser feito, sem aplausos."
 <!-- QUOTE-END -->
 
 <details>
