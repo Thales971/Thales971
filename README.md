@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "I'm no hero  apenas alguém que faz o que precisa ser feito, sem aplausos."
+> "Aqueles que quebram as regras são lixo... mas aqueles que abandonam seus amigos são piores que lixo."
 <!-- QUOTE-END -->
 
 <details>
