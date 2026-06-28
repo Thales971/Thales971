@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Aqueles que quebram as regras são lixo... mas aqueles que abandonam seus amigos são piores que lixo."
+> "Basta um dia ruim para reduzir o homem mais são à loucura."
 <!-- QUOTE-END -->
 
 <details>
