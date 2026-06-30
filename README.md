@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Vamos queimar tudo. Das cinzas nascerá uma América evoluída."
+> "Uma revolução sem dança não vale a pena."
 <!-- QUOTE-END -->
 
 <details>
