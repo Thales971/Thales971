@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Uma revolução sem dança não vale a pena."
+> "Aqueles que conhecem ódio também conhecem tristeza."
 <!-- QUOTE-END -->
 
 <details>
