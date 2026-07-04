@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Um soldado verdadeiro não busca glória; busca paz para os outros."
+> "O verdadeiro inimigo nunca é o código  é a complacência diante do erro."
 <!-- QUOTE-END -->
 
 <details>
