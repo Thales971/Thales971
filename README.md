@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "O verdadeiro poder não está em dominar os elementos, mas em harmonizá-los."
+> "Vamos queimar tudo. Das cinzas nascerá uma América evoluída."
 <!-- QUOTE-END -->
 
 <details>
