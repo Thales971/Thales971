@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Vamos queimar tudo. Das cinzas nascerá uma América evoluída."
+> "Como Yugo, encontre portais onde outros veem paredes  a criatividade move montanhas."
 <!-- QUOTE-END -->
 
 <details>
