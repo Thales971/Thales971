@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Como Yugo, encontre portais onde outros veem paredes  a criatividade move montanhas."
+> "A solidão do campo de batalha é onde nascem as decisões mais fortes."
 <!-- QUOTE-END -->
 
 <details>
