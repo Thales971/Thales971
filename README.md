@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "A solidão do campo de batalha é onde nascem as decisões mais fortes."
+> "Missão cumprida não é um commit  é saber que seu trabalho protegeu algo maior."
 <!-- QUOTE-END -->
 
 <details>
