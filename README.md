@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Missão cumprida não é um commit  é saber que seu trabalho protegeu algo maior."
+> "O verdadeiro poder está em proteger os outros, mesmo que ninguém jamais saiba seu nome."
 <!-- QUOTE-END -->
 
 <details>
