@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "O verdadeiro poder está em proteger os outros, mesmo que ninguém jamais saiba seu nome."
+> "Expansão de domínio não é sobre espaço; é sobre certeza absoluta no que você constrói."
 <!-- QUOTE-END -->
 
 <details>
