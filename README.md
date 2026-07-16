@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Força não é ausência de medo; é avançar mesmo quando tudo dentro de você grita para recuar."
+> "Cada erro é uma maldição  mas também uma oportunidade para evoluir."
 <!-- QUOTE-END -->
 
 <details>
