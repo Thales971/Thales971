@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Cada erro é uma maldição  mas também uma oportunidade para evoluir."
+> "Até os Sadidas mais quietos carregam raízes profundas  valorize o trabalho silencioso."
 <!-- QUOTE-END -->
 
 <details>
