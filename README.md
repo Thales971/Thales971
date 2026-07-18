@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Até os Sadidas mais quietos carregam raízes profundas  valorize o trabalho silencioso."
+> "Se pudesse redimir um erro terrível com sua própria vida... você não faria?"
 <!-- QUOTE-END -->
 
 <details>
