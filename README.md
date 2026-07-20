@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Um soldado verdadeiro não busca glória; busca paz para os outros."
+> "Quando temos vontade, nada está perdido."
 <!-- QUOTE-END -->
 
 <details>
