@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Quando temos vontade, nada está perdido."
+> "Não lute contra a maldição; transforme-a em sua maior arma."
 <!-- QUOTE-END -->
 
 <details>
