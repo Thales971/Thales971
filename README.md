@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Não lute contra a maldição; transforme-a em sua maior arma."
+> "Lute pelo que você acredita, não por uma empresa."
 <!-- QUOTE-END -->
 
 <details>
