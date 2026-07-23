@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Lute pelo que você acredita, não por uma empresa."
+> "Uma revolução sem dança não vale a pena."
 <!-- QUOTE-END -->
 
 <details>
