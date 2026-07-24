@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Uma revolução sem dança não vale a pena."
+> "Se você não lutar, você morre. Se não lutar, não pode vencer."
 <!-- QUOTE-END -->
 
 <details>
