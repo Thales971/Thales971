@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Adamaï não voa sozinho: até os dragões precisam de aliados de confiança."
+> "A solidão do campo de batalha é onde nascem as decisões mais fortes."
 <!-- QUOTE-END -->
 
 <details>
