@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "A solidão do campo de batalha é onde nascem as decisões mais fortes."
+> "Como Ruel, defenda seu código com a ferocidade de um cavaleiro sem rei."
 <!-- QUOTE-END -->
 
 <details>
