@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Se pudesse redimir um erro terrível com sua própria vida... você não faria?"
+> "Domine sua energia antes que ela o domine  o código, como a maldição, exige controle absoluto."
 <!-- QUOTE-END -->
 
 <details>
