@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Domine sua energia antes que ela o domine  o código, como a maldição, exige controle absoluto."
+> "O verdadeiro poder está em proteger os outros, mesmo que ninguém jamais saiba seu nome."
 <!-- QUOTE-END -->
 
 <details>
