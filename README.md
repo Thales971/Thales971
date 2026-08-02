@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "O verdadeiro poder está em proteger os outros, mesmo que ninguém jamais saiba seu nome."
+> "Até os dedos mais fracos têm seu propósito quando unidos a uma vontade inquebrantável."
 <!-- QUOTE-END -->
 
 <details>
