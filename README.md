@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Até os dedos mais fracos têm seu propósito quando unidos a uma vontade inquebrantável."
+> "Guerra não é sobre vitória; é sobre garantir que a próxima geração não precise lutar."
 <!-- QUOTE-END -->
 
 <details>
