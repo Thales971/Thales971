@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Guerra não é sobre vitória; é sobre garantir que a próxima geração não precise lutar."
+> "Uma revolução sem dança não vale a pena."
 <!-- QUOTE-END -->
 
 <details>
