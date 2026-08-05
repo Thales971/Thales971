@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Uma revolução sem dança não vale a pena."
+> "Quando temos vontade, nada está perdido."
 <!-- QUOTE-END -->
 
 <details>
