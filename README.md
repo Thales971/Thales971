@@ -99,7 +99,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Como Yugo, encontre portais onde outros veem paredes  a criatividade move montanhas."
+> "Aqueles que conhecem ódio também conhecem tristeza."
 <!-- QUOTE-END -->
 
 <details>
