@@ -61,19 +61,21 @@
       <span style="width: 12px; height: 12px; border-radius: 50%; background: #24c724;"></span>
       <span style="color: #8b949e; font-size: 12px; margin-left: auto;">Thales971@profile:~$</span>
     </div>
-    <pre style="color: #7ee787; font-size: 13px; line-height: 1.7; margin: 0; white-space: pre-wrap; word-break: break-word;">┌────────────────────────────────────────────────────────┐
-│          👨‍💻 THALES TORNATTO SILVA — DEV PROFILE          │
-├────────────────────────────────────────────────────────┤
-│  🎓  Education:   Técnico em Desenvolvimento de       │
-│                   Sistemas — SENAI Valinhos            │
-│  📍  Location:    Valinhos, SP — Brasil               │
-│  🗣️  Languages:   🇧🇷 Português (nativo)               │
-│                   🇬🇧 English (fluent)                 │
-│                   🇪🇸 Español (intermediário)          │
-│  🔧  currentFocus: Building Full Stack apps         │
-│                   with Node.js + React Native        │
-│  🎯  Goal:        Full Stack Developer (only!)       │
-└────────────────────────────────────────────────────────┘</pre>
+    <pre style="color: #7ee787; font-size: 13px; line-height: 1.6; margin: 0; white-space: pre;">Thales971@profile:~$ whoami
+Thales Torsatto Silva
+
+Thales971@profile:~$ cat profile.json
+{
+  "role":         "Full Stack Developer (only!)",
+  "school":       "Tecnico em Desenvolvimento de Sistemas - SENAI Valinhos",
+  "location":     "Valinhos, SP - Brasil",
+  "languages":    ["Portugues (nativo)", "English (fluent)", "Espanhol (intermedio)"],
+  "currentFocus": "Building Full Stack apps with Node.js + React Native",
+  "skills":       "Avancado - Logica, Web, Mobile, DevOps, Redes, Dados"
+}
+
+Thales971@profile:~$ echo "Full Stack Developer (only!)"
+Thales971@profile:~$ _</pre>
   </div>
 </div>
 
@@ -99,6 +101,14 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 📈 Atividade do GitHub
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thales971&theme=nightowl&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</div>
 
 ---
 
@@ -129,6 +139,12 @@
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <img src="https://media.tenor.com/1q6JMKpPb5sAAAAM/nanomachines-mgspwn3r.gif" width="250" alt="Armstrong - NANOMACHINES, SON!" />
+  <br/>
+  <sub><i>SENATOR ARMSTRONG: "NANOMACHINES, SON!"</i></sub>
 </div>
 
 ---
