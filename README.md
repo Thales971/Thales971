@@ -14,7 +14,6 @@
 - 💻 Interesses em **Front-end**, **Segurança Cibernética** e **IoT**
 - 🚀 Atualmente aprofundando conhecimentos em **JavaScript** e **React**
 - ⚡ Focado em me tornar um **Desenvolvedor Full Stack**
-- 🐦‍🔥 Criador do projeto **UnifyX**
 - 🍛 **Comida favorita:** Strogonoff de carne e Açaí
 - 💪 **Esporte favorito:** Armwrestling (Queda de Braço)
 - 📍 **Valinhos, SP** — Brasil
@@ -27,9 +26,13 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" alt="Python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" alt="HTML5" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="60" alt="Tailwind CSS" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="60" alt="Angular" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="60" alt="Next.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg" width="60" alt="Expo Go" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" alt="Node.js" />
@@ -45,10 +48,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="60" alt="Windows" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="60" alt="Postman" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="60" alt="Terminal" />
-
-
 </p>
-
 ---
 
 ## 🎯 Nível de Experiência Atual
