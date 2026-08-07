@@ -51,19 +51,47 @@
 </p>
 ---
 
-## 🎯 Nível de Experiência Atual
+## 🎯 Thales Torsatto Silva — Perfil Dev
+
+<div align="center">
+  <div style="background: #0d1117; border: 2px solid #238636; border-radius: 12px; padding: 20px; max-width: 680px; font-family: 'SFMono-Regular', Consolas, monospace; margin: 10px auto; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+    <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
+      <span style="width: 12px; height: 12px; border-radius: 50%; background: #ff5f56;"></span>
+      <span style="width: 12px; height: 12px; border-radius: 50%; background: #ffbd2e;"></span>
+      <span style="width: 12px; height: 12px; border-radius: 50%; background: #24c724;"></span>
+      <span style="color: #8b949e; font-size: 12px; margin-left: auto;">Thales971@profile:~$</span>
+    </div>
+    <pre style="color: #7ee787; font-size: 13px; line-height: 1.7; margin: 0; white-space: pre-wrap; word-break: break-word;">┌────────────────────────────────────────────────────────┐
+│          👨‍💻 THALES TORNATTO SILVA — DEV PROFILE          │
+├────────────────────────────────────────────────────────┤
+│  🎓  Education:   Técnico em Desenvolvimento de       │
+│                   Sistemas — SENAI Valinhos            │
+│  📍  Location:    Valinhos, SP — Brasil               │
+│  🗣️  Languages:   🇧🇷 Português (nativo)               │
+│                   🇬🇧 English (fluent)                 │
+│                   🇪🇸 Español (intermediário)          │
+│  🔧  currentFocus: Building Full Stack apps         │
+│                   with Node.js + React Native        │
+│  🎯  Goal:        Full Stack Developer (only!)       │
+└────────────────────────────────────────────────────────┘</pre>
+  </div>
+</div>
+
+<br/>
 
 <table>
   <tr>
     <td width="60%" valign="top">
       <table>
         <tr><th>Habilidade</th><th>Nível</th></tr>
-        <tr><td><b>Lógica de Programação</b></td><td><img src="https://img.shields.io/badge/-Avançado-2ea44f?style=flat-square&logoColor=white" alt="Avançado"></td></tr>
-        <tr><td><b>Administração de Sistemas</b></td><td><img src="https://img.shields.io/badge/-Intermediário-blue?style=flat-square&logoColor=white" alt="Intermediário"></td></tr>
-        <tr><td><b>Engenharia de Requisitos</b></td><td><img src="https://img.shields.io/badge/-Intermediário-blue?style=flat-square&logoColor=white" alt="Intermediário"></td></tr>
-        <tr><td><b>Redes e Segurança</b></td><td><img src="https://img.shields.io/badge/-Intermediário-blue?style=flat-square&logoColor=white" alt="Intermediário"></td></tr>
-        <tr><td><b>Modelagem de Dados</b></td><td><img src="https://img.shields.io/badge/-Intermediário-blue?style=flat-square&logoColor=white" alt="Intermediário"></td></tr>
-        <tr><td><b>Desenvolvimento Web</b></td><td><img src="https://img.shields.io/badge/-Intermediário-blue?style=flat-square&logoColor=white" alt="Intermediário"></td></tr>
+        <tr><td><b>Lógica de Programação</b></td><td><img src="https://img.shields.io/badge/-Avan%C3%A7ado-2ea44f?style=flat-square&logoColor=white" alt="Avançado"></td></tr>
+        <tr><td><b>Administração de Sistemas</b></td><td><img src="https://img.shields.io/badge/-Avan%C3%A7ado-2ea44f?style=flat-square&logoColor=white" alt="Avançado"></td></tr>
+        <tr><td><b>Engenharia de Requisitos</b></td><td><img src="https://img.shields.io/badge/-Avan%C3%A7ado-2ea44f?style=flat-square&logoColor=white" alt="Avançado"></td></tr>
+        <tr><td><b>Redes e Segurança</b></td><td><img src="https://img.shields.io/badge/-Avan%C3%A7ado-2ea44f?style=flat-square&logoColor=white" alt="Avançado"></td></tr>
+        <tr><td><b>Modelagem de Dados</b></td><td><img src="https://img.shields.io/badge/-Avan%C3%A7ado-2ea44f?style=flat-square&logoColor=white" alt="Avançado"></td></tr>
+        <tr><td><b>Desenvolvimento Web</b></td><td><img src="https://img.shields.io/badge/-Avan%C3%A7ado-2ea44f?style=flat-square&logoColor=white" alt="Avançado"></td></tr>
+        <tr><td><b>Desenvolvimento Mobile</b></td><td><img src="https://img.shields.io/badge/-Avan%C3%A7ado-2ea44f?style=flat-square&logoColor=white" alt="Avançado"></td></tr>
+        <tr><td><b>DevOps & CI/CD</b></td><td><img src="https://img.shields.io/badge/-Avan%C3%A7ado-2ea44f?style=flat-square&logoColor=white" alt="Avançado"></td></tr>
       </table>
     </td>
     <td width="40%" align="center">
@@ -71,6 +99,37 @@
     </td>
   </tr>
 </table>
+
+---
+
+## ⚔️ Inspiração — Metal Gear Rising
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://media.tenor.com/RNkzfiQHWg0AAAAM/raiden-jetstream-sam.gif" width="100" alt="Raiden & Sam" />
+        <sub>Raiden &amp; Jetstream Sam</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://media.tenor.com/RNf4G5DC2F0AAAAM/metal-gear-rising-armstrong.gif" width="100" alt="Armstrong" />
+        <sub>Senator Armstrong</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://media.tenor.com/tkkjjTBImDIAAAAM/jetsteam-sam.gif" width="100" alt="Jetstream Sam" />
+        <sub>Jetstream Sam</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://media.tenor.com/LNMI4nwgGC8AAAAM/makes-sense-samuel-rodriguez.gif" width="100" alt="Makes sense" />
+        <sub>"Makes sense!"</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://media.tenor.com/rAb_iaepHncAAAAM/raiden-metal-gear.gif" width="100" alt="Raiden" />
+        <sub>Raiden</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
