@@ -163,7 +163,10 @@
 ## 🐍 Contribuições Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Thales971/Thales971/output/github-contribution-grid-snake-dark.svg?v=1" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thales971/Thales971/output/github-contribution-grid-snake-dark.svg?v=2" />
+    <img src="https://raw.githubusercontent.com/Thales971/Thales971/output/github-contribution-grid-snake.svg?v=2" alt="Snake animation" />
+  </picture>
 </div>
 
 ---
@@ -171,7 +174,7 @@
 ## 🟡 Contribuições Pac-Man (Dark Mode)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Thales971/Thales971/output/pacman-contribution-graph-dark.svg" alt="Pac-Man animation" />
+  <img src="https://raw.githubusercontent.com/Thales971/Thales971/output/pacman-contribution-graph-dark.svg?v=2" alt="Pac-Man animation" />
 </div>
 
 ---
