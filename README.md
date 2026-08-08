@@ -174,7 +174,7 @@ Thales971@profile:~$ _</pre>
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Aqueles que conhecem ódio também conhecem tristeza."
+> "Informação é poder  mas sabedoria é saber quando não usá-la."
 <!-- QUOTE-END -->
 
 <details>
