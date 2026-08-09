@@ -174,7 +174,7 @@ Thales971@profile:~$ _</pre>
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Informação é poder  mas sabedoria é saber quando não usá-la."
+> "Expansão de domínio não é sobre espaço; é sobre certeza absoluta no que você constrói."
 <!-- QUOTE-END -->
 
 <details>
