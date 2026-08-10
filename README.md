@@ -174,7 +174,7 @@ Thales971@profile:~$ _</pre>
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Expansão de domínio não é sobre espaço; é sobre certeza absoluta no que você constrói."
+> "A solidão do campo de batalha é onde nascem as decisões mais fortes."
 <!-- QUOTE-END -->
 
 <details>
