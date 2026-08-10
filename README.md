@@ -112,40 +112,7 @@ Thales971@profile:~$ _</pre>
 
 ---
 
-## ⚔️ Inspiração — Metal Gear Rising
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="20%">
-        <img src="https://media.tenor.com/RNkzfiQHWg0AAAAM/raiden-jetstream-sam.gif" width="100" alt="Raiden & Sam" />
-        <sub>Raiden &amp; Jetstream Sam</sub>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://media.tenor.com/RNf4G5DC2F0AAAAM/metal-gear-rising-armstrong.gif" width="100" alt="Armstrong" />
-        <sub>Senator Armstrong</sub>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://media.tenor.com/tkkjjTBImDIAAAAM/jetsteam-sam.gif" width="100" alt="Jetstream Sam" />
-        <sub>Jetstream Sam</sub>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://media.tenor.com/LNMI4nwgGC8AAAAM/makes-sense-samuel-rodriguez.gif" width="100" alt="Makes sense" />
-        <sub>"Makes sense!"</sub>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://media.tenor.com/rAb_iaepHncAAAAM/raiden-metal-gear.gif" width="100" alt="Raiden" />
-        <sub>Raiden</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://media.tenor.com/1q6JMKpPb5sAAAAM/nanomachines-mgspwn3r.gif" width="250" alt="Armstrong - NANOMACHINES, SON!" />
-  <br/>
-  <sub><i>SENATOR ARMSTRONG: "NANOMACHINES, SON!"</i></sub>
-</div>
 
 ---
 
