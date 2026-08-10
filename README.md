@@ -49,37 +49,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="60" alt="Postman" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="60" alt="Terminal" />
 </p>
----
 
-## 🎯 Thales Torsatto Silva — Perfil Dev
-
-<div align="center">
-  <div style="background: #0d1117; border: 2px solid #238636; border-radius: 12px; padding: 20px; max-width: 680px; font-family: 'SFMono-Regular', Consolas, monospace; margin: 10px auto; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
-    <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
-      <span style="width: 12px; height: 12px; border-radius: 50%; background: #ff5f56;"></span>
-      <span style="width: 12px; height: 12px; border-radius: 50%; background: #ffbd2e;"></span>
-      <span style="width: 12px; height: 12px; border-radius: 50%; background: #24c724;"></span>
-      <span style="color: #8b949e; font-size: 12px; margin-left: auto;">Thales971@profile:~$</span>
-    </div>
-    <pre style="color: #7ee787; font-size: 13px; line-height: 1.6; margin: 0; white-space: pre;">Thales971@profile:~$ whoami
-Thales Torsatto Silva
-
-Thales971@profile:~$ cat profile.json
-{
-  "role":         "Full Stack Developer (only!)",
-  "school":       "Tecnico em Desenvolvimento de Sistemas - SENAI Valinhos",
-  "location":     "Valinhos, SP - Brasil",
-  "languages":    ["Portugues (nativo)", "English (fluent)", "Espanhol (intermedio)"],
-  "currentFocus": "Building Full Stack apps with Node.js + React Native",
-  "skills":       "Avancado - Logica, Web, Mobile, DevOps, Redes, Dados"
-}
-
-Thales971@profile:~$ echo "Full Stack Developer (only!)"
-Thales971@profile:~$ _</pre>
-  </div>
-</div>
-
-<br/>
 
 <table>
   <tr>
