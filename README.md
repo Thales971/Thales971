@@ -111,7 +111,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "A solidão do campo de batalha é onde nascem as decisões mais fortes."
+> "Quem diz 'não pode ser feito' nunca deve interromper quem está fazendo."
 <!-- QUOTE-END -->
 
 <details>
