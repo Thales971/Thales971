@@ -111,7 +111,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Quem diz 'não pode ser feito' nunca deve interromper quem está fazendo."
+> "Eu vou morrer como alguém que viveu plenamente  comece hoje."
 <!-- QUOTE-END -->
 
 <details>
