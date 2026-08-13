@@ -111,7 +111,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Eu vou morrer como alguém que viveu plenamente  comece hoje."
+> "No mundo digital, todos são invisíveis  até que seu código fale por você."
 <!-- QUOTE-END -->
 
 <details>
