@@ -111,7 +111,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "No mundo digital, todos são invisíveis  até que seu código fale por você."
+> "Quem diz 'não pode ser feito' nunca deve interromper quem está fazendo."
 <!-- QUOTE-END -->
 
 <details>
