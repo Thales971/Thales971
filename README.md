@@ -111,7 +111,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Quem diz 'não pode ser feito' nunca deve interromper quem está fazendo."
+> "Força não é ausência de medo; é avançar mesmo quando tudo dentro de você grita para recuar."
 <!-- QUOTE-END -->
 
 <details>
