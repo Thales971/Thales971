@@ -111,7 +111,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Força não é ausência de medo; é avançar mesmo quando tudo dentro de você grita para recuar."
+> "Até os Sadidas mais quietos carregam raízes profundas  valorize o trabalho silencioso."
 <!-- QUOTE-END -->
 
 <details>
