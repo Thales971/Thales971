@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Se você não arriscar, não criará um futuro!"
+> "Às vezes, o herói que a cidade precisa não é o que ela merece."
 <!-- QUOTE-END -->
 
 <details>
