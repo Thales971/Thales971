@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Às vezes, o herói que a cidade precisa não é o que ela merece."
+> "Aqueles que conhecem ódio também conhecem tristeza."
 <!-- QUOTE-END -->
 
 <details>
