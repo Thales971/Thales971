@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Aqueles que conhecem ódio também conhecem tristeza."
+> "Kept you waiting, huh?  a paciência é a arma mais subestimada do desenvolvedor."
 <!-- QUOTE-END -->
 
 <details>
