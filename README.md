@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Kept you waiting, huh?  a paciência é a arma mais subestimada do desenvolvedor."
+> "Eu vou morrer como alguém que viveu plenamente  comece hoje."
 <!-- QUOTE-END -->
 
 <details>
