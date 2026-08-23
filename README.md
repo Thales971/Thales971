@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Eu vou morrer como alguém que viveu plenamente  comece hoje."
+> "Lute pelo que você acredita, não por uma empresa."
 <!-- QUOTE-END -->
 
 <details>
