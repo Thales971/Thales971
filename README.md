@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Se você não arriscar, não criará um futuro!"
+> "Uma revolução sem dança não vale a pena."
 <!-- QUOTE-END -->
 
 <details>
