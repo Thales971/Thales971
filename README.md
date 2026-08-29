@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Se você é bom em alguma coisa, nunca faça de graça."
+> "Até os Sadidas mais quietos carregam raízes profundas  valorize o trabalho silencioso."
 <!-- QUOTE-END -->
 
 <details>
