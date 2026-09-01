@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Como Yugo, encontre portais onde outros veem paredes  a criatividade move montanhas."
+> "Até os dedos mais fracos têm seu propósito quando unidos a uma vontade inquebrantável."
 <!-- QUOTE-END -->
 
 <details>
