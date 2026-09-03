@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Se você não arriscar, não criará um futuro!"
+> "A maldição surge do coração humano  mas a técnica nasce da disciplina diária."
 <!-- QUOTE-END -->
 
 <details>
