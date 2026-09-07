@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Informação é poder  mas sabedoria é saber quando não usá-la."
+> "Kept you waiting, huh?  a paciência é a arma mais subestimada do desenvolvedor."
 <!-- QUOTE-END -->
 
 <details>
