@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Kept you waiting, huh?  a paciência é a arma mais subestimada do desenvolvedor."
+> "Um soldado verdadeiro não busca glória; busca paz para os outros."
 <!-- QUOTE-END -->
 
 <details>
