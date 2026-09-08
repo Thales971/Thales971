@@ -1,11 +1,11 @@
 <h1 align="center">
-  Olá, eu sou o Thales <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" alt="Coding" />
+  Olá, eu sou o Thales <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmhxYnB4MWg4amg3dmdhZjBtcHF0NW1rMDRvM2llaTQ3bndpbms3YyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/jfKiMjWolBzuWkdbw0/giphy.gif" width="50" alt="Coding" />
 </h1>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding banner" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThjc2dvMzRiOTE2b2pvNXZ6Yjh0MzVyYzJ3c3lxZXg0ZDQ0enBqNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif" width="360" alt="Coding banner" />
 </div>
 
 <br/>
