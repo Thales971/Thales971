@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Se você não lutar, você morre. Se não lutar, não pode vencer."
+> "O verdadeiro inimigo nunca é o código  é a complacência diante do erro."
 <!-- QUOTE-END -->
 
 <details>
