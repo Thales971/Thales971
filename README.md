@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Não lute contra a maldição; transforme-a em sua maior arma."
+> "Equilíbrio não é estagnação  é movimento consciente entre caos e ordem."
 <!-- QUOTE-END -->
 
 <details>
