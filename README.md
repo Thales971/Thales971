@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Equilíbrio não é estagnação  é movimento consciente entre caos e ordem."
+> "Nanomachines, filho!"
 <!-- QUOTE-END -->
 
 <details>
