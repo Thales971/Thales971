@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Como Ruel, defenda seu código com a ferocidade de um cavaleiro sem rei."
+> "Eu tenho um sonho: um dia cada pessoa controlará seu próprio destino."
 <!-- QUOTE-END -->
 
 <details>
