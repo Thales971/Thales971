@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Eu tenho um sonho: um dia cada pessoa controlará seu próprio destino."
+> "O verdadeiro inimigo nunca é o código  é a complacência diante do erro."
 <!-- QUOTE-END -->
 
 <details>
