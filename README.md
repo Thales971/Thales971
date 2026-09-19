@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "O verdadeiro inimigo nunca é o código  é a complacência diante do erro."
+> "Nanomachines, filho!"
 <!-- QUOTE-END -->
 
 <details>
