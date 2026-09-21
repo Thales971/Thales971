@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "A maldição surge do coração humano  mas a técnica nasce da disciplina diária."
+> "I'm no hero  apenas alguém que faz o que precisa ser feito, sem aplausos."
 <!-- QUOTE-END -->
 
 <details>
