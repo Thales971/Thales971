@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "I'm no hero  apenas alguém que faz o que precisa ser feito, sem aplausos."
+> "Um soldado verdadeiro não busca glória; busca paz para os outros."
 <!-- QUOTE-END -->
 
 <details>
