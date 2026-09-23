@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Um soldado verdadeiro não busca glória; busca paz para os outros."
+> "Eu vou morrer como alguém que viveu plenamente  comece hoje."
 <!-- QUOTE-END -->
 
 <details>
