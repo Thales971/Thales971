@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Eu vou morrer como alguém que viveu plenamente  comece hoje."
+> "Como Yugo, encontre portais onde outros veem paredes  a criatividade move montanhas."
 <!-- QUOTE-END -->
 
 <details>
