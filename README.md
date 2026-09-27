@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Um soldado verdadeiro não busca glória; busca paz para os outros."
+> "Guerra não é sobre vitória; é sobre garantir que a próxima geração não precise lutar."
 <!-- QUOTE-END -->
 
 <details>
