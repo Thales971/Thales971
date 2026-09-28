@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Guerra não é sobre vitória; é sobre garantir que a próxima geração não precise lutar."
+> "Adamaï não voa sozinho: até os dragões precisam de aliados de confiança."
 <!-- QUOTE-END -->
 
 <details>
