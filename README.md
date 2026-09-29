@@ -11,10 +11,10 @@
 <br/>
 
 - 🎓 Cursando **Técnico de Desenvolvimento de Sistemas** no SENAI de Valinhos
-- 💻 Interesses em **Front-end**, **Segurança Cibernética** e **IoT**
-- 🚀 Atualmente aprofundando conhecimentos em **JavaScript** e **React**
+- 💻 Interesses em **Front-end**, **Banco de dados** e **IA**
+- 🚀 Atualmente aprofundando conhecimentos em **C e C# com esp32** e **React-Native**
 - ⚡ Focado em me tornar um **Desenvolvedor Full Stack**
-- 🍛 **Comida favorita:** Strogonoff de carne e Açaí
+- 🍛 **Comida favorita:** Hambúrguer e parmegiana de carne
 - 💪 **Esporte favorito:** Armwrestling (Queda de Braço)
 - 📍 **Valinhos, SP** — Brasil
 
@@ -50,6 +50,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="60" alt="Windows" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="60" alt="Postman" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="60" alt="Terminal" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" alt="TypeScript" />
 </p>
 
 
