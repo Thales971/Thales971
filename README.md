@@ -113,7 +113,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Adamaï não voa sozinho: até os dragões precisam de aliados de confiança."
+> "Não lute contra a maldição; transforme-a em sua maior arma."
 <!-- QUOTE-END -->
 
 <details>
