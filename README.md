@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Não lute contra a maldição; transforme-a em sua maior arma."
+> "Às vezes, o herói que a cidade precisa não é o que ela merece."
 <!-- QUOTE-END -->
 
 <details>
