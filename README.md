@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Às vezes, o herói que a cidade precisa não é o que ela merece."
+> "Guerra não é sobre vitória; é sobre garantir que a próxima geração não precise lutar."
 <!-- QUOTE-END -->
 
 <details>
