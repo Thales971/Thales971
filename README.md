@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Amalia ensina: liderança é servir, não comandar."
+> "Se pudesse redimir um erro terrível com sua própria vida... você não faria?"
 <!-- QUOTE-END -->
 
 <details>
