@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Se pudesse redimir um erro terrível com sua própria vida... você não faria?"
+> "Adamaï não voa sozinho: até os dragões precisam de aliados de confiança."
 <!-- QUOTE-END -->
 
 <details>
