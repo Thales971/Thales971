@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Eu vou morrer como alguém que viveu plenamente  comece hoje."
+> "Basta um dia ruim para reduzir o homem mais são à loucura."
 <!-- QUOTE-END -->
 
 <details>
