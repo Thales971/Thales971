@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Basta um dia ruim para reduzir o homem mais são à loucura."
+> "Missão cumprida não é um commit  é saber que seu trabalho protegeu algo maior."
 <!-- QUOTE-END -->
 
 <details>
