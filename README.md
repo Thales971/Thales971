@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Missão cumprida não é um commit  é saber que seu trabalho protegeu algo maior."
+> "Às vezes, o destino nos dá uma segunda chance. Não a desperdice."
 <!-- QUOTE-END -->
 
 <details>
