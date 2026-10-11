@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Eu tenho um sonho: um dia cada pessoa controlará seu próprio destino."
+> "No mundo digital, todos são invisíveis  até que seu código fale por você."
 <!-- QUOTE-END -->
 
 <details>
