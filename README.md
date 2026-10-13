@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Como Yugo, encontre portais onde outros veem paredes  a criatividade move montanhas."
+> "No mundo digital, todos são invisíveis  até que seu código fale por você."
 <!-- QUOTE-END -->
 
 <details>
