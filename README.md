@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "No mundo digital, todos são invisíveis  até que seu código fale por você."
+> "Aqueles que quebram as regras são lixo... mas aqueles que abandonam seus amigos são piores que lixo."
 <!-- QUOTE-END -->
 
 <details>
