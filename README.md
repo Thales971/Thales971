@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "A solidão do campo de batalha é onde nascem as decisões mais fortes."
+> "Eu vou morrer como alguém que viveu plenamente  comece hoje."
 <!-- QUOTE-END -->
 
 <details>
