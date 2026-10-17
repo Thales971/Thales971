@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Eu vou morrer como alguém que viveu plenamente  comece hoje."
+> "A maldição surge do coração humano  mas a técnica nasce da disciplina diária."
 <!-- QUOTE-END -->
 
 <details>
