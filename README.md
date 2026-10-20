@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "A solidão do campo de batalha é onde nascem as decisões mais fortes."
+> "Se você é bom em alguma coisa, nunca faça de graça."
 <!-- QUOTE-END -->
 
 <details>
