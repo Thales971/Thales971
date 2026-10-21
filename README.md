@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Se você é bom em alguma coisa, nunca faça de graça."
+> "Paz é só uma ilusão... mas vale a pena lutar por ela."
 <!-- QUOTE-END -->
 
 <details>
