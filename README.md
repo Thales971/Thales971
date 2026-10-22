@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Paz é só uma ilusão... mas vale a pena lutar por ela."
+> "Se pudesse redimir um erro terrível com sua própria vida... você não faria?"
 <!-- QUOTE-END -->
 
 <details>
