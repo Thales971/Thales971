@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Se pudesse redimir um erro terrível com sua própria vida... você não faria?"
+> "Aqueles que conhecem ódio também conhecem tristeza."
 <!-- QUOTE-END -->
 
 <details>
