@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Aqueles que conhecem ódio também conhecem tristeza."
+> "I'm no hero  apenas alguém que faz o que precisa ser feito, sem aplausos."
 <!-- QUOTE-END -->
 
 <details>
