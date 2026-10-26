@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "A terra só floresce depois da tempestade  persista além dos bugs aparentemente impossíveis."
+> "Kept you waiting, huh?  a paciência é a arma mais subestimada do desenvolvedor."
 <!-- QUOTE-END -->
 
 <details>
