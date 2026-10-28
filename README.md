@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "A terra só floresce depois da tempestade  persista além dos bugs aparentemente impossíveis."
+> "Como Yugo, encontre portais onde outros veem paredes  a criatividade move montanhas."
 <!-- QUOTE-END -->
 
 <details>
