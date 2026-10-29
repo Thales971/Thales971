@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Como Yugo, encontre portais onde outros veem paredes  a criatividade move montanhas."
+> "Eu tenho um sonho: um dia cada pessoa controlará seu próprio destino."
 <!-- QUOTE-END -->
 
 <details>
