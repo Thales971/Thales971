@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Eu tenho um sonho: um dia cada pessoa controlará seu próprio destino."
+> "Força não é ausência de medo; é avançar mesmo quando tudo dentro de você grita para recuar."
 <!-- QUOTE-END -->
 
 <details>
