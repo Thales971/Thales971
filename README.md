@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Força não é ausência de medo; é avançar mesmo quando tudo dentro de você grita para recuar."
+> "O tempo de Xelor não para  use cada segundo com intenção."
 <!-- QUOTE-END -->
 
 <details>
