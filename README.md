@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "O tempo de Xelor não para  use cada segundo com intenção."
+> "Às vezes, o destino nos dá uma segunda chance. Não a desperdice."
 <!-- QUOTE-END -->
 
 <details>
