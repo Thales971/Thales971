@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Cada erro é uma maldição  mas também uma oportunidade para evoluir."
+> "Aqueles que conhecem ódio também conhecem tristeza."
 <!-- QUOTE-END -->
 
 <details>
