@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Aqueles que conhecem ódio também conhecem tristeza."
+> "Até os Sadidas mais quietos carregam raízes profundas  valorize o trabalho silencioso."
 <!-- QUOTE-END -->
 
 <details>
