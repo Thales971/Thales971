@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Até os Sadidas mais quietos carregam raízes profundas  valorize o trabalho silencioso."
+> "A terra só floresce depois da tempestade  persista além dos bugs aparentemente impossíveis."
 <!-- QUOTE-END -->
 
 <details>
