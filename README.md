@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "A terra só floresce depois da tempestade  persista além dos bugs aparentemente impossíveis."
+> "Um soldado verdadeiro não busca glória; busca paz para os outros."
 <!-- QUOTE-END -->
 
 <details>
