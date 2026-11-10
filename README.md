@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Informação é poder  mas sabedoria é saber quando não usá-la."
+> "Cada erro é uma maldição  mas também uma oportunidade para evoluir."
 <!-- QUOTE-END -->
 
 <details>
