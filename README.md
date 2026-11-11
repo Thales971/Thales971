@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Cada erro é uma maldição  mas também uma oportunidade para evoluir."
+> "Amalia ensina: liderança é servir, não comandar."
 <!-- QUOTE-END -->
 
 <details>
