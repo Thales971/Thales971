@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Se você não arriscar, não criará um futuro!"
+> "Se você não lutar, você morre. Se não lutar, não pode vencer."
 <!-- QUOTE-END -->
 
 <details>
