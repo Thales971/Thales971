@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Uma revolução sem dança não vale a pena."
+> "Se pudesse redimir um erro terrível com sua própria vida... você não faria?"
 <!-- QUOTE-END -->
 
 <details>
