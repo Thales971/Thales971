@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Até os Sadidas mais quietos carregam raízes profundas  valorize o trabalho silencioso."
+> "Missão cumprida não é um commit  é saber que seu trabalho protegeu algo maior."
 <!-- QUOTE-END -->
 
 <details>
