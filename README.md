@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Basta um dia ruim para reduzir o homem mais são à loucura."
+> "Vamos queimar tudo. Das cinzas nascerá uma América evoluída."
 <!-- QUOTE-END -->
 
 <details>
