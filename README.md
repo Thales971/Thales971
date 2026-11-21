@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Vamos queimar tudo. Das cinzas nascerá uma América evoluída."
+> "O tempo de Xelor não para  use cada segundo com intenção."
 <!-- QUOTE-END -->
 
 <details>
