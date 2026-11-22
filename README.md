@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "O tempo de Xelor não para  use cada segundo com intenção."
+> "Informação é poder  mas sabedoria é saber quando não usá-la."
 <!-- QUOTE-END -->
 
 <details>
