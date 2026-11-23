@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Informação é poder  mas sabedoria é saber quando não usá-la."
+> "Palavras começam a revolução. A ação a termina."
 <!-- QUOTE-END -->
 
 <details>
