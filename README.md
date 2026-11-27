@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "No mundo digital, todos são invisíveis  até que seu código fale por você."
+> "Uma técnica máxima acontece quando corpo e mente se tornam um só  assim é a entrega perfeita."
 <!-- QUOTE-END -->
 
 <details>
