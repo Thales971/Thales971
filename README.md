@@ -115,7 +115,7 @@
 ## 📅 Frase do dia
 
 <!-- QUOTE-START -->
-> "Uma técnica máxima acontece quando corpo e mente se tornam um só  assim é a entrega perfeita."
+> "O povo não deve temer o governo. O governo deve temer o povo."
 <!-- QUOTE-END -->
 
 <details>
